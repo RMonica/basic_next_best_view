@@ -1,0 +1,7 @@
+bool ok
+geometry_msgs/PoseArray pose_list
+std_msgs/UInt32MultiArray index_list
+geometry_msgs/PoseArray best_poses
+std_msgs/Float64MultiArray weight_list
+uint32 pose_count
+std_msgs/UInt32MultiArray unknown_count

@@ -1,0 +1,6 @@
+basic_next_best_view/BasicRequest request
+---
+basic_next_best_view/BasicResponse response
+---
+uint32 progress
+uint32 progress_max
